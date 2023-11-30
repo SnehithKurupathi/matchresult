@@ -1,0 +1,9 @@
+ImageItem.css
+
+.project-item-container {
+  list-style: none;
+}
+.item-image {
+  height: 10vh;
+  width: 50vw;
+}
